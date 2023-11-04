@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-giannis-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13df1944-2b21-41b6-98b2-19944360f73a",
+		"tenantId": "8d34f8a5-7afc-42bf-bdfd-d5b734a0aceb"
+	}
+}
